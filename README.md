@@ -20,8 +20,6 @@ This tool automates the discovery of .env files and displays their contents in a
 
 ## Output
 
-Output
-
 All results are saved in the following directory structure: ```Results/```
 
 ---

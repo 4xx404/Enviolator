@@ -51,5 +51,4 @@ Install required packages with:
 ```pip install -r requirements.txt```
 
 ### Disclaimer
-
-This tool is intended strictly for educational and authorized security testing purposes. Accessing .env files on systems without explicit permission is illegal and may violate data protection laws. The author assumes no responsibility for misuse.
+See [Enviolator Disclaimer](https://github.com/4xx404/Enviolator/blob/master/DISCLAIMER.md)
